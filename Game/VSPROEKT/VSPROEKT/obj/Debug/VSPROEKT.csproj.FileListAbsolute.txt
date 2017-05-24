@@ -1,0 +1,14 @@
+c:\users\alektoni\documents\visual studio 2015\Projects\VSPROEKT\VSPROEKT\bin\Debug\VSPROEKT.exe.config
+c:\users\alektoni\documents\visual studio 2015\Projects\VSPROEKT\VSPROEKT\bin\Debug\VSPROEKT.exe
+c:\users\alektoni\documents\visual studio 2015\Projects\VSPROEKT\VSPROEKT\bin\Debug\VSPROEKT.pdb
+c:\users\alektoni\documents\visual studio 2015\Projects\VSPROEKT\VSPROEKT\obj\Debug\VSPROEKT.csprojResolveAssemblyReference.cache
+c:\users\alektoni\documents\visual studio 2015\Projects\VSPROEKT\VSPROEKT\obj\Debug\VSPROEKT.Properties.Resources.resources
+c:\users\alektoni\documents\visual studio 2015\Projects\VSPROEKT\VSPROEKT\obj\Debug\VSPROEKT.csproj.GenerateResource.Cache
+c:\users\alektoni\documents\visual studio 2015\Projects\VSPROEKT\VSPROEKT\obj\Debug\VSPROEKT.exe
+c:\users\alektoni\documents\visual studio 2015\Projects\VSPROEKT\VSPROEKT\obj\Debug\VSPROEKT.pdb
+C:\Users\alektoni\Documents\Visual Studio 2015\Projects\VSPROEKT\VSPROEKT\obj\Debug\VSPROEKT.Play.resources
+C:\Users\alektoni\Documents\Visual Studio 2015\Projects\VSPROEKT\VSPROEKT\obj\Debug\VSPROEKT.Game.resources
+C:\Users\alektoni\Documents\Visual Studio 2015\Projects\VSPROEKT\VSPROEKT\obj\Debug\VSPROEKT.Settings.resources
+C:\Users\alektoni\Documents\Visual Studio 2015\Projects\VSPROEKT\VSPROEKT\obj\Debug\VSPROEKT.HighScore.resources
+C:\Users\alektoni\Documents\Visual Studio 2015\Projects\VSPROEKT\VSPROEKT\obj\Debug\VSPROEKT.RegisterPlayer.resources
+C:\Users\alektoni\Documents\Visual Studio 2015\Projects\VSPROEKT\VSPROEKT\obj\Debug\VSPROEKT.LoserWinner.resources
