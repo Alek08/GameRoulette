@@ -1,0 +1,14 @@
+C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\bin\Release\VSPROEKT.exe.config
+C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\bin\Release\VSPROEKT.exe
+C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\bin\Release\VSPROEKT.pdb
+C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\obj\Release\VSPROEKT.csprojResolveAssemblyReference.cache
+C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\obj\Release\VSPROEKT.HighScore.resources
+C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\obj\Release\VSPROEKT.LoserWinner.resources
+C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\obj\Release\VSPROEKT.Play.resources
+C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\obj\Release\VSPROEKT.Game.resources
+C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\obj\Release\VSPROEKT.Properties.Resources.resources
+C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\obj\Release\VSPROEKT.RegisterPlayer.resources
+C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\obj\Release\VSPROEKT.Settings.resources
+C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\obj\Release\VSPROEKT.csproj.GenerateResource.Cache
+C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\obj\Release\VSPROEKT.exe
+C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\obj\Release\VSPROEKT.pdb
