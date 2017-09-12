@@ -26,3 +26,6 @@ C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\obj\Debug\VSPROEKT
 C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\obj\Debug\VSPROEKT.RegisterPlayer.resources
 C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\obj\Debug\VSPROEKT.Settings.resources
 C:\Users\alektoni\Desktop\Toni\1.P\8.C#[VP]\VSPROEKT\VSPROEKT\obj\Debug\VSPROEKT.csproj.GenerateResource.Cache
+C:\Users\Dejan\Desktop\GitHubMain\GameRoulette\VSPROEKT\bin\Debug\VSPROEKT.exe.config
+C:\Users\Dejan\Desktop\GitHubMain\GameRoulette\VSPROEKT\obj\Debug\VSPROEKT.exe
+C:\Users\Dejan\Desktop\GitHubMain\GameRoulette\VSPROEKT\obj\Debug\VSPROEKT.pdb
