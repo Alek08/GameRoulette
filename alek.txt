@@ -1,0 +1,3 @@
+	 WritableImage playerView = sp.snapshot(new SnapshotParameters(), null);
+		 Color spinEndedOnColor =  playerView.getPixelReader().getColor(400, 50);
+		 System.out.println(spinEndedOnColor.getBlue()+" "+spinEndedOnColor.getRed()+" "+spinEndedOnColor.getGreen());
