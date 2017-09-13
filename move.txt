@@ -1,0 +1,15 @@
+if(sp.getHvalue()+addScrollValue > 1.0){//slednoto zgolemuvanje ke go nadmina scroll
+    		spinDirectionToRight=false;//dvizi se na levo
+    	}
+    	 
+    	if(sp.getHvalue()-addScrollValue < 0.0){ 
+    		spinDirectionToRight=true;//dvizi se na desno
+    	}
+    	
+    	if(spinDirectionToRight){//dvizi se na desno
+    		sp.setHvalue(sp.getHvalue()+addScrollValue);
+    	}
+    	else{//dvizi se na levo
+    		sp.setHvalue(sp.getHvalue()-addScrollValue);
+    	}
+    	
